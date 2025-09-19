@@ -43,4 +43,3 @@ const Home: React.FC = () => {
 };
 
 export default Home;
-npm install @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons @fortawesome/fontawesome-svg-core
